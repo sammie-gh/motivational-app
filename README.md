@@ -1,4 +1,4 @@
 # motivational-app
 
  # Images 
- ![](sreens/screen.png)
+ ![](sreens/screen.jpg)
